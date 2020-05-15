@@ -226,7 +226,7 @@ aparelho e sob seu comando.
 
 ## Dutch
 
-Presently: een dankbaarheidsdagboek
+Presently: Een dankbaarheidsdagboek
 
 Vier je dagelijkse leven met Presently, een gratis en privé dankbaarheidsdagboek
 
